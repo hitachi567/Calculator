@@ -1,8 +1,10 @@
+package calculator;
+
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class Programm {
+public class Main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
